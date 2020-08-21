@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MyBookHub</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="about">About</string>
+    <string name="navigation_assert">Navigation Assert</string>
+    <string name="hello_world">hello world</string>
+    <string name="open_drawer">OpenDrawer</string>
+    <string name="close_drawer">CloseDrawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="favourites_fragment">Favourites Dashboard</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="about_fragment">About Fragment</string>
+    <string name="item_one">item one</string>
+    <string name="list_item">List item</string>
+    <string name="name_of_the_author">Name of the author</string>
+    <string name="price">Price</string>
+    <string name="rs_299">Rs.299</string>
+    <string name="_4_5">4.5</string>
+    <string name="add_to_favourites">Add to Favourites</string>
+    <string name="about_book">About Book</string>
+    <string name="dummy_text">Dummy text</string>
+    <string name="android_inc">Android Inc.</string>
+    <string name="rs_499">Rs. 499</string>
+    <string name="sort">Sort</string>
+
+</resources>
+
