@@ -1,4 +1,4 @@
-# MyBookHub
+# MyBookHub App
 DemoBookApp-SharedPref-Views
 Demo book app.
 Navigation Drawer
