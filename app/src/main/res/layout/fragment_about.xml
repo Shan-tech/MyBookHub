@@ -20,7 +20,7 @@
         android:layout_below="@+id/aboutFragment"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="BookHub Version0.4"
+        android:text="BookHub Version0.5"
         android:textSize="25dp"
         />
         
