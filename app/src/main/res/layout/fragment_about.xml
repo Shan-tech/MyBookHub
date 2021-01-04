@@ -10,9 +10,12 @@
         android:id="@+id/aboutFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/about_fragment"
-        android:textSize="20sp"
-        android:padding="10dp"/>
+        android:text="  BookHub is a demo book app. It has some default books. you can see the book info in the dashboard frag and book description by making a click on the book you want. You can also add those books to your favourites."
+        android:textSize="25sp"
+        android:padding="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="3dp"
+        />
 
 </RelativeLayout>
 
